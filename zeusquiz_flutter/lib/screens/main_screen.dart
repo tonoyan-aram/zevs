@@ -90,7 +90,7 @@ class MainScreen extends StatelessWidget {
                   // Footer
                   SizedBox(height: 30), // marginBottom: 30
                   Text(
-                    'Challenge the gods and prove your wisdom!',
+                    'May the wisdom of the gods guide you!',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontSize: 16,

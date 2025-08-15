@@ -153,7 +153,7 @@ class _GameScreenState extends State<GameScreen> {
                   ),
                   const SizedBox(height: 20),
                   Text(
-                    '$_score/${quizData.length}',
+                    '${_score}/${quizData.length}',
                     style: TextStyle(
                       fontSize: 48,
                       fontWeight: FontWeight.bold,
